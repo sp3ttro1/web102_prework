@@ -30,7 +30,7 @@ http://imgur.com/a/UfqB2CL
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...
-GIPHY Capture
+GIPHY Capture and imgur.com
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
